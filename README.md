@@ -1,0 +1,1 @@
+# SVM-Based-Detection-of-Tomato-Leaves-Diseases
